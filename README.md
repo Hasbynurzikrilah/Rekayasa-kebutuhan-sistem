@@ -1,6 +1,6 @@
 # Rekayasa-kebutuhan-sistem
 
-1800018320 - Hasby Nur Zikrilah
+1800018320 - Hasby Nur Zikrilah - G
 
 Penjelasan Aplikasi :
 aplikasi yang di buat mirip dengan workflow dan wireframe yang di buat hanya saja pembuatan aplikasi di buat sangat simpel agar mempermudah user untuk memahami isi aplikasi tersebut. karena yang ada di dalam workflow dan wirefrme di ambil dari elearning UAD, maka dari itu di dalam aplikasi saya buat lebih ringkas dan simpel dalam mengisi kehadiran mahasiswa.
